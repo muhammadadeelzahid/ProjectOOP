@@ -10,10 +10,7 @@
 using namespace std;
 
 int main() {
-	cout << "Wilkomen! Gutten Morgen" << endl; // prints Wilkomen! Gutten Morgen
-	cout<<"Whatsupp bro"<<endl ;
-	cout<<"Im good"<<endl ;
-	cout<<"Wow"<<endl ;
 	cout<<"FROM MAC "<<endl ;
+	cout<<"FRom windows bro"<<endl ;
 	return 0;
 }
