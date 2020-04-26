@@ -10,7 +10,6 @@
 using namespace std;
 
 int main() {
-	cout<<"FROM MAC "<<endl ;
-	cout<<"FRom windows bro"<<endl ;
+	cout<<"I added this line from the windows "<<endl ;
 	return 0;
 }
